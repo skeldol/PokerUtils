@@ -1,4 +1,4 @@
-package com.learn.PokerSimulator.io;
+package com.pokersimples.io;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
-import com.learn.PokerSimulator.utils.Logger;
+import com.pokersimples.utils.Logger;
 
 public class FileIO {
     private static final String filepath=".\\src\\rankshandlookup.dat";

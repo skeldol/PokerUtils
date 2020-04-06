@@ -1,4 +1,4 @@
-package com.learn.PokerSimulator.utils;
+package com.pokersimples.utils;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

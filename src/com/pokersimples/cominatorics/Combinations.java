@@ -1,10 +1,10 @@
-package com.learn.PokerSimulator.cominatorics;
+package com.pokersimples.cominatorics;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import com.learn.PokerSimulator.utils.Logger;
+import com.pokersimples.utils.Logger;
 
 public class Combinations {
 	
